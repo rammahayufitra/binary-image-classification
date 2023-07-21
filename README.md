@@ -1,1 +1,1 @@
-# Binary_Image_Classification-dl_cv_pytorch_1-
+# binary-image-classification
